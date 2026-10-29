@@ -1,0 +1,9 @@
+# Compiled object files
+*.o
+
+# Compiled binaries / executables
+*.out
+listMain
+
+# macOS system files
+.DS_Store
